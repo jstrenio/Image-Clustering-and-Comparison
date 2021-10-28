@@ -1,6 +1,6 @@
 # Image-Clustering-and-Comparison
 
-![alt text](https://github.com/jstrenio/Image-Cluster-and-Comparison/blob/main/sift.jpg?raw=true)
+![alt text](https://github.com/jstrenio/Image-Clustering-and-Comparison/tree/main/imgs/sift.jpg?raw=true)
 
 ![alt text](http://johnstrenio.com/images/knn.jpg)
 
